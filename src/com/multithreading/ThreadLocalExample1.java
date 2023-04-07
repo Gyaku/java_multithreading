@@ -2,6 +2,7 @@ package com.multithreading;
 
 public class ThreadLocalExample1 {
     public static void main(String[] args) {
+
         ThreadLocal threadLocal1 = new ThreadLocal();
         ThreadLocal threadLocal2 = new ThreadLocal();
         Thread thread1 = new Thread(() -> {

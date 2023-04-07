@@ -1,7 +1,5 @@
-<br>
-
-#volatile关键字的作用是什么?
-<br>
+volatile关键字的作用是什么?
+--
 
 ##volatile能保证原子性吗?
 <br>
